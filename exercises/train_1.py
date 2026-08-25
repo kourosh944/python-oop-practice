@@ -6,3 +6,6 @@ class Animal:
 class Dog(Animal):
     pass
 
+
+d1 = Dog()
+d1.speak()
